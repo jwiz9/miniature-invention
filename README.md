@@ -13,9 +13,9 @@ This application is distributed under the [MIT](https://opensource.org/licenses/
   - [Testing](#Testing)
   - [Contributions](#Contributions)
   ## Usage
-  Use this application to speed up the README.md writing process. Why manually do everything in the README.md when you can use a code to do it for you? Solve a problem  with the power of coding!
+  Use this application to speed up the README.md writing process. Why manually do everything in the README.md when you can use a code to do it for you? Solve a problem  with the power of Node.js!
   ## Installation
-  In order to run this application you need Node.js installed. Then you must use the command node index in your command-line to be prompted witht he questions to fill out your README.md. A YouTube demo will be provided in the following line:
+  In order to run this application you need Node.js installed. Then, you must use the command "node index" in your command-line to be prompted with the questions to fill out your README.md. A YouTube demo of this explanation will be provided in the following line:
   ## Tests
   A example of this generated README.md will be provided with a link in the following line:
   ## Contributors
