@@ -17,7 +17,7 @@ This application is distributed under the [MIT](https://opensource.org/licenses/
   ## Installation
   In order to run this application you need Node.js installed. Then, you must use the command "node index" in your command-line to be prompted with the questions to fill out your README.md. A YouTube demo of this explanation will be provided in the following line:
   ## Tests
-  A example of this generated README.md will be provided with a link in the following line:
+  This current README.md template was designed using the README.md generator I developed, so take this README.md as the test.
   ## Contributors
   Contributors: 
   Jordan Heath
