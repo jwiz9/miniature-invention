@@ -18,7 +18,7 @@ This application is distributed under the [MIT](https://opensource.org/licenses/
   In order to run this application you need Node.js installed. Then, you must use the command "node index" in your command-line to be prompted with the questions to fill out your README.md. A Google drive demo of this explanation will be provided in the following line:
   https://drive.google.com/file/d/1jutXHq4hH8tF83VxI5SZPNIirwjlR55m/view
   ## Tests
-  This current README.md template was designed using the README.md generator I developed, so take this README.md as the test.
+  This current README.md template was designed using the README.md generator I developed, so take this README.md as the test. Also [click here](https://github.com/jwiz9/READEME-Sample/blob/main/README.md) for a sample.
   ## Contributors
   Contributors: 
   Jordan Heath
